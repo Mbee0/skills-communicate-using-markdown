@@ -16,3 +16,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+#### Grocery List
+- [ ] Eggs
+- [ ] Cheese
+- [ ] Lactose Free Milk
+- [X] Bread/Tortillas/Rolls
+- [ ] Beef/Pork/Chicken
